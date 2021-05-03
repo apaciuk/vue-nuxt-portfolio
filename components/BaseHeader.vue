@@ -29,7 +29,7 @@
 					<ul class="uk-navbar-nav uk-visible@m">
 						<li>
 							<div class="uk-navbar-item">
-								<NuxtLink to="/" class="uk-button uk-button-medium uk-button-secondary">Request a quote</NuxtLink>
+								<NuxtLink to="/" class="uk-button uk-button-medium uk-button-primary">Request a quote</NuxtLink>
 							</div>
 						</li>
 					</ul>
@@ -43,5 +43,7 @@
 </template>
 
 <style scoped>
-
+.uk-navbar-container {
+background-color:#7d1c54;
+}
 </style>

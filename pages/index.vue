@@ -16,7 +16,7 @@
 					<div class="uk-text-lead">With 12 years of experience and tonnes of Keurig, I have become one of the most sought after web wizards of the 21st century.</div>
 					<div class="uk-margin-large-top">
 						<p>
-							<NuxtLink to="/contact" class="uk-button uk-button-default uk-button-xlarge">View all services</NuxtLink>
+							<NuxtLink to="/contact" class="uk-button uk-button-primary uk-button-xlarge">View all services</NuxtLink>
 						</p>
 					</div>
 				</div>
