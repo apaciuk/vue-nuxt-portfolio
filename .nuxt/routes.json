@@ -1,0 +1,9 @@
+[
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/anton/Projects/vue-nuxt-portfolio/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_2137bbec"
+  }
+]
