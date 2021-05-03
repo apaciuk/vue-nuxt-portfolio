@@ -1,5 +1,33 @@
 [
   {
+    "name": "About",
+    "path": "/About",
+    "component": "/home/anton/Projects/vue-nuxt-portfolio/pages/About.vue",
+    "chunkName": "pages/About",
+    "_name": "_471e6725"
+  },
+  {
+    "name": "Contact",
+    "path": "/Contact",
+    "component": "/home/anton/Projects/vue-nuxt-portfolio/pages/Contact.vue",
+    "chunkName": "pages/Contact",
+    "_name": "_08c3f390"
+  },
+  {
+    "name": "News",
+    "path": "/News",
+    "component": "/home/anton/Projects/vue-nuxt-portfolio/pages/News.vue",
+    "chunkName": "pages/News",
+    "_name": "_2ea78c6b"
+  },
+  {
+    "name": "Services",
+    "path": "/Services",
+    "component": "/home/anton/Projects/vue-nuxt-portfolio/pages/Services.vue",
+    "chunkName": "pages/Services",
+    "_name": "_45191476"
+  },
+  {
     "name": "index",
     "path": "/",
     "component": "/home/anton/Projects/vue-nuxt-portfolio/pages/index.vue",
